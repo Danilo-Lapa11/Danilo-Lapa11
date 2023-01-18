@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Danilo-Lapa11
-- 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning web development, javascript, html and css, react and react native.
-- 💞️ I’m looking to collaborate on my onw progress for now, but I want to be in a big company. 
-- 📫 How to reach me ...
+- 👋 Olá meu nome é Danilo Lapa
+- 🎓 Faço Sistemas de Informação na UFPE - Cin 
+- 🌱 Tenho o sonho de criar minha própria empresa de TI e inovar com soluções para esse mundo da tecnologia
+- 🤖 Hoje estou focado em desenvolver minha carreira acadêmica aberto a projetos, pesquisas e estágios, tenho objetivo de trabalhar em grandes empresas.
+- 📫 Esse GitHub será utlizado como repositório para todos os projetos feitos por mim... Enjoy ✍️
 
 <!---
 Danilo-Lapa11/Danilo-Lapa11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
