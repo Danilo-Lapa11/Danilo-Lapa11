@@ -1,7 +1,5 @@
 - 👋 Olá meu nome é Danilo Lapa
-- 🎓 Faço Sistemas de Informação na UFPE - Cin 
-- 🌱 Tenho o sonho de criar minha própria empresa de TI e inovar com soluções para esse mundo da tecnologia
-- 🤖 Hoje estou focado em desenvolver minha carreira acadêmica aberto a projetos, pesquisas e estágios, tenho objetivo de trabalhar em grandes empresas.
+- 🎓 Sistemas de Informação na UFPE - Cin 
 - 📫 Esse GitHub será utlizado como repositório para todos os projetos feitos por mim... Enjoy ✍️
 
 <!---
