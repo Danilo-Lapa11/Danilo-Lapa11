@@ -1,6 +1,6 @@
-👋 Olá meu nome é Danilo Lapa
-🎓 Sistemas de Informação na UFPE - Cin 
-📫 Esse GitHub será utlizado como repositório para todos os projetos feitos por mim... Enjoy ✍️
+-👋 Olá meu nome é Danilo Lapa
+-🎓 Sistemas de Informação na UFPE - Cin 
+-📫 Esse GitHub será utlizado como repositório para todos os projetos feitos por mim... Enjoy ✍️
 
 
 <div style="display: inline_block"><br>
