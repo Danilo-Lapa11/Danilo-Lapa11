@@ -1,4 +1,4 @@
-👋 Olá meu nome é Danilo Lapa, faço Sistemas de Informação tenho interesse na área de Cieência de Dados, Machine Learning e IA
+👋 Olá meu nome é Danilo Lapa, faço Sistemas de Informação tenho interesse na área de Cieência de Dados, Machine Learning e IA, mas também desenvolvo sites.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoblw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
