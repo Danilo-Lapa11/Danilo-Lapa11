@@ -2,15 +2,15 @@
 
 #### 👷🏻‍♂️Formado em Técnico em Eletrônica
 
-### Tenho interesse na aréa de Dados, Machine Learning e IA. 
+#### Tenho interesse na aréa de Ciência de Dados, Machine Learning e IA. 
 
 Busco construir minha carreira em base desses pilares os quais me identifico.
 
-Tenho ótimo desempenho trabalhando em equipe, meu ponto forte é sempre buscar aprender e me manter atualizado das tecnologias.
+ ##
 
-Tenho um espirito de liderança que acho importante pra carreira que quero construir, mas sempre aberto a sugestões, conselhos e sempre escutando e aprendendo mais com as pessoas.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoblw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Danilo-Lapa11&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Danilo-Lapa11&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Lapa11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="LAPA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
