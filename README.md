@@ -1,7 +1,5 @@
 ### 👨🏻‍💻Estudante de Sistemas de Informação pela UFPE
 
-#### 👷🏻‍♂️Formado em Técnico em Eletrônica
-
 #### Tenho interesse na aréa de Ciência de Dados, Machine Learning e IA. 
 
 Busco construir minha carreira em base desses pilares os quais me identifico.
